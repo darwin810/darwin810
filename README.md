@@ -1,16 +1,25 @@
-## Hi there 👋
+# Yerson Darwin Mamani Mendoza
 
-<!--
-**darwin810/darwin810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Software con Inteligencia Artificial en SENATI.  
+Interesado en desarrollo de software, inteligencia artificial, bases de datos y automatización.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Lenguajes:** Python, Java, JavaScript, SQL  
+**Desarrollo:** React, Next.js, Firebase, Android Studio  
+**Herramientas:** Git, GitHub, Oracle
+
+## Proyectos
+
+### Sistema POS para Panadería
+Sistema web para la gestión de ventas, productos y operaciones de una panadería, con integración para impresión térmica.
+
+## Certificaciones
+
+- Python Essentials 1 — Cisco
+- Python Essentials 2 — Cisco
+- Introduction to Cybersecurity — Cisco
+
+## Contacto
+
+**LinkedIn:** [Yerson Darwin Mamani Mendoza](https://www.linkedin.com/in/yerson-darwin-mamani-mendoza-621537413)
